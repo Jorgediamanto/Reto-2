@@ -1,5 +1,9 @@
 # Reto-2
 
+# Colaboradores:
+Iñigo Aguirre, Jorge Diamantopoulos, Diego Fernandez, Enrique Mariana, Javier Fernandez
+
+
 # Link:
 https://github.com/Jorgediamanto/Reto-2.git
 
@@ -12,8 +16,7 @@ SWAG ha demostrado una notable mejora en la clasificación de imágenes, regresi
 
 
 
-Colaboradores:
-Iñigo Aguirre, Jorge Diamantopoulos, Diego Fernandez, Enrique Mariana, Javier Fernandez
+
 
 
 

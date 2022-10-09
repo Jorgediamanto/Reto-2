@@ -12,7 +12,8 @@ SWAG ha demostrado una notable mejora en la clasificación de imágenes, regresi
 
 
 
-
+Colaboradores:
+Iñigo Aguirre, Jorge Diamantopoulos, Diego Fernandez, Enrique Mariana, Javier Fernandez
 
 
 
